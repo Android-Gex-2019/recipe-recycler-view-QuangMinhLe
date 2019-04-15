@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Recipes</string>
+    <string name="action_settings">Settings</string>
+    <string name="recipetitle">RecipeTitle</string>
+    <string name="description">Description</string>
+    <string name="detail_title">Recipe Details</string>
+    <string name="imagedesc">imageDesc</string>
+    <string name="ingredientsTitle">Ingredients</string>
+    <string name="directionsTitle">Directions</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="directions">Directions</string>
+</resources>
